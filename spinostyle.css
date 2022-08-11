@@ -1,0 +1,27 @@
+body {
+    background-image: url(grass.png);
+}
+
+h1 {
+    color: lightgray;
+}
+
+p {
+    color: lightgray;
+    font-size: 20px;
+}
+
+.spino {
+    color: lightgray;
+    font-size: 20px;
+}
+
+.spino:hover {
+    color: red;
+    font-size: 20px;
+}
+
+ul {
+    color: lightgray;
+    font-size: 20px;
+}
